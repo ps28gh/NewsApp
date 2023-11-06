@@ -1,5 +1,5 @@
 # NewsApp
-Fromt-end app using newsAPI to fetch news 
+Front-end app using newsAPI to fetch news 
 
   Preview:  
   ![news-1](https://github.com/ps28gh/NewsApp/assets/85683350/a9a9bcf7-0ad5-4bc7-8b13-3fc50937b301)  
